@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,jquery,js,html,css,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,jquery,js,html,css,git,github,gitlab,postman" />
 </p>
 
 ### 📊 GitHub Stats
